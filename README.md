@@ -12,14 +12,14 @@ As a self-taught enthusiast, I have a deep passion for software development, alg
 
 * 🌍  I'm based in Addis Ababa, Ethiopia
 * ✉️  You can contact me at [eliasdewa3@gmail.com](mailto:eliasdewa3@gmail.com)
-* 🧠  I'm currently working on [JavaScript Projects](http://github.com/eliasdewa14/javascript-projects) and [Full-MERN-stack apps](https://github.com/eliasdewa14?tab=repositories)
+* 🧠  I'm currently working on [JavaScript Projects](http://github.com/eliasdewa/javascript-projects) and [Full-MERN-stack apps](https://github.com/eliasdewa?tab=repositories)
 * 🤝  I'm open to collaborating on JavaScript projects and Web Development
 * ⚡  I'm a hard worker
 
-<a href="https://www.github.com/eliasdewa14" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/eliasdewa14?logo=github&style=for-the-badge&color=0891b2&labelColor=14532d" /></a>
-<a href="https://www.x.com/eliasdewa14" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/eliasdewa14?logo=twitter&style=for-the-badge&color=0891b2&labelColor=14532d"
+<a href="https://www.github.com/eliasdewa" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/eliasdewa?logo=github&style=for-the-badge&color=0891b2&labelColor=14532d" /></a>
+<a href="https://www.x.com/eliasdewa" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/eliasdewa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=14532d"
 /></a>
 
 ### Skills
@@ -45,16 +45,16 @@ src="https://img.shields.io/twitter/follow/eliasdewa14?logo=twitter&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/eliasdewa14"><img src="https://github-readme-stats.vercel.app/api?username=eliasdewa14&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=134e4a&hide_border=true&show_icons=true" alt="eliasdewa14's GitHub stats" /></a>
+<a href="http://www.github.com/eliasdewa"><img src="https://github-readme-stats.vercel.app/api?username=eliasdewa&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=134e4a&hide_border=true&show_icons=true" alt="eliasdewa's GitHub stats" /></a>
 
-<a href="https://github.com/eliasdewa14" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasdewa14&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/eliasdewa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasdewa&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Socials
 
 <p align="left">
-  <a href="https://www.facebook.com/elias.dewa14" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a>
-  <a href="https://www.github.com/eliasdewa14" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
-  <a href="https://www.linkedin.com/in/eliasdewa14" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+  <a href="https://www.facebook.com/elias.dewa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a>
+  <a href="https://www.github.com/eliasdewa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
+  <a href="https://www.linkedin.com/in/eliasdewa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
   <a href="http://www.medium.com/@eliasdewa3" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a>
-  <a href="https://www.x.com/eliasdewa14" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
+  <a href="https://www.x.com/eliasdewa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
 </p>
