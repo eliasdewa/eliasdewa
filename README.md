@@ -12,7 +12,7 @@ As a self-taught enthusiast, I have a deep passion for software development, alg
 
 * 🌍  I'm based in Addis Ababa, Ethiopia
 * ✉️  You can contact me at [eliasdewa3@gmail.com](mailto:eliasdewa3@gmail.com)
-* 🧠  I'm currently working on [JavaScript Projects](http://github.com/eliasdewa/javascript-projects) and [Full-MERN-stack apps](https://github.com/eliasdewa?tab=repositories)
+* 🧠  I'm currently working on [Full-MERN-stack web apps](https://github.com/eliasdewa?tab=repositories) developments.
 * 🤝  I'm open to collaborating on JavaScript projects and Web Development
 * ⚡  I'm a hard worker
 
